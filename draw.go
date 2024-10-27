@@ -3,7 +3,7 @@ package utils
 import (
 	"fmt"
 
-	platforms "utils/build"
+	platforms "github.com/VibeOnline/Poet.utils/build"
 )
 
 type Buffer struct {
